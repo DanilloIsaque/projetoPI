@@ -1,4 +1,4 @@
 # Projeto Integrador CRUD 
  Projeto utilizando PHP , HTML ,BootStrap , SQL Server e JS.
- Parte do CRUD de uma livraria
- A parte do Usuário não funciona ainda , pois esse não era o foco do projeto, contudo será terminado em um futuro proximo. Entretanto, todas as ferramentas de administrador funciona.
+ CRUD de uma livraria na parte de um administrador que opera cadastrando,alterando, consultando e "deletando".
+ A parte de deletar algum produto, administrador ou categoria é usado soft delete, onde ao ser executado, o usuário ou produto ou categoria ficará inativo para ser usado ou sem acesso ao programa , até ser ativado novamente.
